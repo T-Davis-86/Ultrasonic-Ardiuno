@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component,Vendor,Part #, Price 
+U1,1, Arduino Uno R3,Mouser,782-A000066,$27.60 
+DIST1,1, Ultrasonic Distance Sensor,Adafruit,4007,$3.95 
+Ulcd,1,"PCF8574-based, 32 LCD 16 x 2 ",Adafruit,181,$9.95 
+U(I2C),1,I2C/SPI Character LCD Backpack,Adafruit,292,$9.95 
+,,,,,
+,,,,Total:,$51.45 
